@@ -14,3 +14,5 @@ Awesome DAO resources.
 # Discord integrations
 - https://alpha.guild.xyz/
 
+# research
+- https://docs.google.com/spreadsheets/d/16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpk/edit#gid=970924127
